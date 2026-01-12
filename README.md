@@ -1,6 +1,10 @@
 <h3 align="left">👋 Hi, I'm Pratik Kumar Sinha<br><br>🎓 Computer Science & Engineering Student | Chandigarh University<br>💻 Developer | Data Science Enthusiast | Exploring AI & Emerging Tech 🚀| Power BI for Insightful Data Visualization</h3>
+<!-- <p>
+  <img src="https://komarev.com/ghpvc/?username=pratiksinha20&label=Profile%20views&color=0e75b6&style=flat" />
+</p> -->
 
 ###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
@@ -57,6 +61,40 @@
 <img src="https://raw.githubusercontent.com/pratiksinha20/pratiksinha20/output/snake.svg" alt="Snake animation" />
 
 ###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=F7A41D&center=true&vCenter=true&width=700&lines=Hey+there;Welcome+to+Pratik+Sinha+GitHub;Hope+you+find+something+useful+here;Happy+Coding" />
+</p>
+
+## ⚡Pratik Sinha-Dev Snapshot
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratiksinha20&label=Visitors&style=for-the-badge&color=1f6feb" />
+</p>
+
+
+
+### 📈 Contribution Pulse
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratiksinha20&bg_color=0d1117&color=58a6ff&line=f0883e&point=c9d1d9&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+Learner;Node.js+MangoDB+learner;Building+Projects;Learning+Every+Day;Future+Software+Engineer" />
+</p>
+
+
+<p align="center">
+  ───────────────── ✨ ─────────────────
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=You+have+reached+the+end+of+my+profile;Thanks+for+scrolling;Repositories+are+listed+below+👇" />
+</p>
+
+<p align="center">
+  ───────────────── ✨ ─────────────────
+</p>
+
 
 
 

@@ -52,16 +52,11 @@
   </a>
 </div>
 
-###
-
-###
 <img 
   align="right" 
-  height="150" 
+  height="130" 
   src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
 />
-
-###
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=F7A41D&center=true&vCenter=true&width=700&lines=Hey+there;Welcome+to+Pratik+Sinha+GitHub;Hope+you+find+something+useful+here;Happy+Coding" />
 </p>

@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I'm Pratik Kumar Sinha<br><br>🎓 Computer Science & Engineering Student | Chandigarh University<br>💻 Developer | Data Science Enthusiast | Exploring AI & Emerging Tech 🚀| Power BI for Insightful Data Visualization</h3>
+<h3 align="left">👋 Hi, I'm Pratik Kumar Sinha<br><br>🎓 Computer Science & Engineering Student | Chandigarh University<br>💻 Developer | Data Science Enthusiast | Exploring AI,ML & Emerging Tech 🚀| Power BI for Insightful Data Visualization</h3>
 <!-- <p>
   <img src="https://komarev.com/ghpvc/?username=pratiksinha20&label=Profile%20views&color=0e75b6&style=flat" />
 </p> -->

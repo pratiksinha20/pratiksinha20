@@ -25,6 +25,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
+<img src="https://skillicons.dev/icons?i=springboot" height="30" alt="springboot logo" />
+
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />

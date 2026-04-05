@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgreSQL" height="30" alt="postgresSQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
 </div>
 
 ###

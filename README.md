@@ -40,6 +40,8 @@
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring boot" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgreSQL" height="30" alt="postgresSQL" />
 </div>
 
 ###

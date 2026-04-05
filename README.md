@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+Learner;Node.js+MangoDB+learner;Building+Projects;Learning+Every+Day;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+Learner;SpringBoot+PostgreSql+learner;Building+Projects;Learning+Every+Day;Future+Software+Engineer" />
 </p>
 
 

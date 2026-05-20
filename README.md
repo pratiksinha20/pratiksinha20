@@ -44,6 +44,8 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux" />
 </div>
 
 ###

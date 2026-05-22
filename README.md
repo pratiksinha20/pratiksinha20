@@ -50,8 +50,10 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" height="30" alt="Ubuntu" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redhat" height="30" alt="Redhat" />
-    <img width="12" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
 </div>
 
 ###

@@ -13,6 +13,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -27,11 +29,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" height="30"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="Supabase"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring boot" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
@@ -39,13 +43,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="git lab"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring boot" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="Supabase"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
   <img width="12" />
@@ -63,7 +61,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="Netlify" />
   <img width="12" />
- <img src="https://cdn.simpleicons.org/render/46E3B7" height="30" alt="Render"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="30" alt="Render"/>
+  <img width="12" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" height="30"/>
+  <img width="12" />
+ 
+
+  
 </div>
 
 ###

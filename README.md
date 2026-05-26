@@ -37,11 +37,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="git hub"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="git lab"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring boot" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="Supabase"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
   <img width="12" />

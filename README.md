@@ -58,6 +58,12 @@
   <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="Netlify" />
+  <img width="12" />
+ <img src="https://cdn.simpleicons.org/render/46E3B7" height="30" alt="Render"/>
 </div>
 
 ###

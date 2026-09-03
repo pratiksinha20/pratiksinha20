@@ -97,17 +97,27 @@
 </p>
 
 ## ⚡Pratik Sinha-Dev Snapshot
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratiksinha20&label=Visitors&style=for-the-badge&color=1f6feb" />
 </p>
 
 
 
+
 ### 📈 Contribution Pulse
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratiksinha20&show_icons=true&theme=tokyonight" />
+</p> -->
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratiksinha20&bg_color=0d1117&color=58a6ff&line=f0883e&point=c9d1d9&area=true&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratiksinha20&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratiksinha20&theme=tokyonight" />
+</p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+Learner;SpringBoot+PostgreSql+learner;Building+Projects;Learning+Every+Day;Future+Software+Engineer" />
